@@ -1,6 +1,6 @@
 # doubtSession-frontend
 DoubtSession( Real-Time Doubt Solving Platform)
-
+Backend: https://github.com/abhishekrathaur80/doubtSession-backend  
 Introduction:
 DoubtShare is an interactive real-time doubt solving platform designed to assist students with their academic queries. 
 
