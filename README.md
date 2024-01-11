@@ -17,6 +17,5 @@ Eligible tutors are notified in real-time.
 
 Tracks real-time tutor availability.
 
-Updates the last ping time against each tutor in the “Tutor Availability” table every 3 seconds. CRON Job:
-
-Runs every second to count the real-time available tutors.
+Updates the last ping time against each tutor in the “Tutor Availability” table every 3 seconds. 
+CRON Job:Runs every second to count the real-time available tutors.
